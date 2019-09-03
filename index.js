@@ -1,12 +1,21 @@
-function add(){
+function add(a,b){
 
 }
-function subtract() {
+function subtract(a,b) {
 
 }
-function multiply(){
+function multiply(a,b){
 
 }
-function divide(){
+function divide(a,b){
+
+}
+function inc(n){
+
+}
+function dec(n){
+
+}
+function makeInt(n){
 
 }
