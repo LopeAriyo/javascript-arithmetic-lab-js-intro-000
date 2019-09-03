@@ -1,1 +1,12 @@
-add(2,5)
+function add(){
+
+}
+function subtract() {
+
+}
+function multiply(){
+
+}
+function divide(){
+
+}
